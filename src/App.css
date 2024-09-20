@@ -1,0 +1,157 @@
+.custom-navbar{
+  background-color: rgba(216, 225, 225, 0.422);
+  
+}
+
+.me-auto{
+  font-size: medium;
+  color: black;
+
+}
+
+.cart {
+
+display: flex;
+margin-right: 10%;
+width: 120px;
+left: 2px;
+background-color: transparent;
+color: black;
+border-color: black;
+border-width: 2px;
+gap: 20px;
+
+} 
+
+.count{
+  font-size: auto;
+  width: 25px;
+  background-color: black;
+  color: white;
+  border-radius: 49%;
+}
+
+.hello{
+  display: flex;
+  width: auto;
+  margin-left: 10%;
+  /* background-color: aqua; */
+}
+
+.head-container{
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: 30vh;
+  background-color: #212529;
+}
+
+.Title{
+
+  position: relative;
+  font-size: 30px;
+  color: white;
+  margin-left: 38%;
+  align-content: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  font-size: 70px;
+  padding: 0px 0px;
+
+}
+
+.Title1{
+/* width: 100%; */
+  position: relative;
+  font-size: 20px;
+  color: #f4f0f0ab;
+  margin-top: 190px;
+  margin-left: -23%;
+  /* margin-right: 90%; */
+  
+}
+
+.content-container{
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: 950%;
+
+
+}
+
+.bottom-container{
+  display: flex;
+  position: relative;
+  margin-top: 800px;
+  width: 100%;
+  height: 15vh;
+  background-color: #212529;
+}
+
+.Title4{
+display: flex;
+position: relative;
+  color: #fcfcfc;
+  font-size: 19px;
+  margin-top: 50px;
+  margin-left: 42%;
+}
+
+.content-container{
+  display: flex;
+  position: relative;
+ height: 1000px;
+
+justify-content: safe;
+
+
+}
+.back {
+  padding: 0; /* Ensure no extra padding */
+  background-color: transparent; /* Ensure no background color */
+  border: none; /* Ensure no border */
+
+}
+
+.card {
+ height: 420px;
+ width: 59%;
+margin-left: 20%;
+margin-top: 2%;
+margin-bottom: -10px;
+  gap: px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Optional shadow */
+}
+
+.img{
+  height: 60%;
+  width: 100%;
+}
+
+.addtocart{
+  display: flex;
+  position: relative;
+  justify-content: center;
+  background-color: rgb(95, 183, 32);
+ align-items: safe;
+ padding: 5px 3px;
+margin-top: 40px;
+width: 120px;
+border-color: transparent;
+border-radius: 20px;
+  
+}
+
+.addtocart:hover{
+  background-color: rgb(204, 243, 185);
+  color: blueviolet;
+}
+
+.title-card{
+  display: flex;
+  position: relative;
+  font-size: 20px;
+  width: 100%;
+justify-content: center;
+}
